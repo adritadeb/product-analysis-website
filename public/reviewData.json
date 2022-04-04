@@ -1,32 +1,44 @@
 [
     {
-        "id": "6249fc5d6909b9948dd05f86",
-        "body": "254",
-        "name": "Wynn Parsons"
+        "id": 1,
+        "img": "https://randomuser.me/api/portraits/thumb/women/28.jpg",
+        "body": "Skill Up is doing great. The courses are very helpful. But sometimes there sound quality is low.",
+        "name": "Wynn Parsons",
+        "ratings": "4 Star"
     },
     {
-        "id": "6249fc5d7fa984755785bb28",
-        "body": "255",
-        "name": "Nichols Solis"
+        "id": 2,
+        "img": "https://randomuser.me/api/portraits/thumb/women/38.jpg",
+        "body": "It is an amazing platform. All the courses are very bigginer friendly. It is the right place for increasing skills.",
+        "name": "Nichols Solis",
+        "ratings": "5 Star"
     },
     {
-        "id": "6249fc5d7fa984755785bb38",
-        "body": "255",
-        "name": "Merle Mathews"
+        "id": 3,
+        "img": "https://randomuser.me/api/portraits/thumb/men/80.jpg",
+        "body": "It is one of the best platforms I have ever seen. The courses are very organized. One can easily finish a course.",
+        "name": "Merle Mathews",
+        "ratings": "4.5 Star"
     },
     {
-        "id": "6249fc5d7fa988755785bb28",
-        "body": "255",
-        "name": "Marks Patton"
+        "id": 4,
+        "img": "https://randomuser.me/api/portraits/thumb/men/32.jpg",
+        "body": "Learning with Skill Up is very enjoyable. They thaught with great video animation which helps the students to create visualization.",
+        "name": "Marks Patton",
+        "ratings": "5 Star"
     },
     {
-        "id": "624a03ff5a4ff21570b72523",
-        "body": "255",
-        "name": "Roxanne Diaz"
+        "id": 5,
+        "img": "https://randomuser.me/api/portraits/thumb/women/30.jpg",
+        "body": "It's tutorials are just amazing. They thaught very practically which is very helpful for a learner. So, I must prefer Skill Up for developing skills",
+        "name": "Roxanne Diaz",
+        "ratings": "5 Star"
     },
     {
-        "id": "624a03ff5a4ff21570b72523",
-        "body": "255",
-        "name": "Byers Romero"
+        "id": 6,
+        "img": "https://randomuser.me/api/portraits/thumb/men/75.jpg",
+        "body": "I think it will be helpful to the students to give online notes. So that they can revise the hard topics at any time anywhere. Otherwise, it is just wonderful.",
+        "name": "Byers Romero",
+        "ratings": "4 Star"
     }
 ]
