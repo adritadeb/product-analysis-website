@@ -11,7 +11,7 @@ const Dashboard = () => {
     return (
         <div className='md:flex justify-center mt-16'>
             <div>
-                <h2 className='text-3xl font-bold text-blue-400 mb-9'>Month Wise Sell</h2>
+                <h2 className='text-3xl font-bold text-blue-400 mb-9'>Month Wise Sale</h2>
                 <LineChart width={500} height={400} data={data}>
                     <Line type="monotone" dataKey={'sell'} stroke="#8884d8" strokeWidth={2}></Line>
                     <XAxis dataKey='month'></XAxis>
