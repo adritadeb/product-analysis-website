@@ -2,7 +2,7 @@ import React from 'react';
 
 const HeaderSection = () => {
     return (
-        <div className='flex mx-14 mt-12 text-left'>
+        <div className='md:flex mx-14 mt-12 text-left'>
             <div>
                 <h1 className='text-3xl font-semibold mb-7'>Skill Up</h1>
                 <h2 className='text-4xl mb-6'>Up Your Skill With <span className='text-blue-400'>Skill Up</span></h2>

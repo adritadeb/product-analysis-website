@@ -15,7 +15,7 @@ const ReviewSection = () => {
     return (
         <div>
             <h1 className='text-4xl my-16'>Customer Reviews(3)</h1>
-            <div className='grid grid-cols-3 gap-3 mx-12'>
+            <div className='grid grid-cols-1 md:grid-cols-3 gap-3 mx-12'>
                 {
                     slicedReviews.map(review => <Review keys={review.id} review={review}></Review>)
                 }

@@ -9,7 +9,7 @@ const Dashboard = () => {
             .then(data => setData(data));
     }, [])
     return (
-        <div className='flex justify-center mt-16'>
+        <div className='md:flex justify-center mt-16'>
             <div>
                 <h2 className='text-3xl font-bold text-blue-400 mb-9'>Month Wise Sell</h2>
                 <LineChart width={500} height={400} data={data}>
@@ -20,7 +20,7 @@ const Dashboard = () => {
                     <YAxis></YAxis>
                 </LineChart>
             </div>
-            <div className='ml-9'>
+            <div className='md:ml-9'>
                 <h2 className='text-3xl font-bold text-blue-400 mb-9'>Investment VS Revenue</h2>
                 <BarChart
                     width={500}
