@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import ReviewData from '../../hooks/ReviewData';
 import Review from '../Review/Review';
 import { useNavigate } from 'react-router-dom';
